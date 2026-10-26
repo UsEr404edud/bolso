@@ -87,6 +87,12 @@ npx serve public
 
 O projeto é publicado como **Static Site**, sem build, a partir da pasta `public/`.
 
+<p>
+  <a href="https://render.com/deploy?repo=https://github.com/UsEr404edud/bolso">
+    <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render" height="36">
+  </a>
+</p>
+
 ### Com Blueprint (recomendado)
 
 1. Envie o repositório para o GitHub.
